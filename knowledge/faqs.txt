@@ -1,0 +1,12 @@
+# FAQs
+Q: Kya zApps Consulting custom software provide karti hai?
+A: Haan, solutions client requirements ke mutabiq develop hoti hain.
+
+Q: Company kin regions me services deti hai?
+A: Pakistan aur GCC regions.
+
+Q: Kya launch ke baad support milta hai?
+A: Haan, support agreement ke mutabiq provide hota hai.
+
+Q: Kya pricing fixed hoti hai?
+A: Nahi, pricing zyada tar flexible aur project-based hoti hai.

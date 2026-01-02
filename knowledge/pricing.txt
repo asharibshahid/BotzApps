@@ -1,0 +1,10 @@
+# Pricing
+Pricing project-based hoti hai aur scope, timeline, aur complexity par depend karti hai. Fixed fee model un projects ke liye hota hai jahan scope clear ho. Dedicated resource model monthly basis par available hota hai.
+
+Onsite aur enterprise pricing client requirements ke mutabiq customize hoti hai. Final pricing requirements analysis ke baad confirm hoti hai.
+
+- Scope aur complexity
+- Timeline aur delivery speed
+- Pricing model (project-based vs fixed fee)
+- Dedicated resources (monthly)
+- Onsite/enterprise requirements

@@ -1,0 +1,14 @@
+# Services
+zApps Consulting software aur IT services provide karti hai jo business needs ke mutabiq hoti hain. Services me web, mobile, cloud, aur automation solutions cover hotay hain. Focus custom requirements aur scalable delivery par hota hai.
+
+- AI aur machine learning solutions
+- UI/UX design for web aur mobile products
+- Web application development
+- Mobile application development
+- Custom platform development
+- Cloud computing aur deployment
+- Technology aur IT consultancy
+- Quality assurance aur testing
+- Digital marketing services
+- Business intelligence aur reporting
+- Product aur resource outsourcing

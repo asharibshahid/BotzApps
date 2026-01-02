@@ -1,0 +1,153 @@
+# About
+zApps Consulting aik software aur IT services company hai jo 2017 me establish hui. Company digital solutions, automation, aur software products banati hai aur operations Pakistan se manage hotay hain. Clients zyada tar Pakistan aur GCC regions me hain, aur company startups, SMEs, aur enterprise clients ke sath kaam karti hai. Reported stats me 9+ years experience, 150+ projects, aur 86% client satisfaction ka internal figure mention hai.
+
+- Custom software development
+- Web applications
+- Mobile applications
+- Cloud platforms
+- Automation systems
+- Technology consultancy
+
+# Services
+## WhatsApp Bot Development
+WhatsApp bot development me hum businesses ke liye automated chat solutions banate hain. Yeh solution customer queries handle karta hai aur manual workload kam karta hai. Restaurant use case me bot menu, prices, deals, delivery areas, aur delivery charges share karta hai.
+
+- Menu aur prices share karna
+- Deals aur offers show karna
+- Delivery areas aur charges check karna
+- Order placement WhatsApp se
+- Orders ka automatic forwarding to restaurant
+- Owner dashboard se menu aur zones manage karna
+
+- Business ka type (e.g., restaurant)
+- Required features list
+- Menu items / catalog data
+- Delivery zones aur charges
+- Admin number(s) for alerts
+
+## Website Development
+Website development me hum business systems aur online presence ke liye web solutions banate hain. Focus clean UX, scalable setup, aur business needs ke mutabiq custom development hota hai. Projects scope ke hisaab se plan kiye jatay hain.
+
+- Business website
+- Web application
+- Platform development
+- SaaS style website
+
+- Business overview aur goals
+- Content (pages, text, images)
+- Required features aur integrations
+- Branding assets (logo, colors)
+
+## AI Automation (Optional)
+AI aur automation solutions me business systems ko streamline kiya jata hai. Focus automation tools, CRM/ERP integrations, aur process optimization par hota hai. Scope requirements ke mutabiq define hota hai.
+
+- Automation workflows
+- Business process optimization
+- CRM/ERP integration
+
+# Pricing
+Pricing case-by-case hoti hai aur project scope, complexity, aur timeline par depend karti hai. Public website par fixed pricing table available nahi hai. Final pricing requirements analysis ke baad confirm hoti hai.
+
+- Scope aur complexity
+- Timeline aur delivery speed
+- Integrations aur third-party tools
+- Support requirements
+- Product vs service type
+
+- Requirement analysis
+- Basic project planning
+- Standard QA/testing
+
+- Extra integrations
+- Extended support
+- Custom automation modules
+
+# Process / Timeline
+1) Initial discovery aur requirements
+2) Scope confirmation aur proposal
+3) Design/architecture planning
+4) Development aur testing
+5) Review aur feedback
+6) Delivery aur handover
+
+Typical timeline range: TBD
+
+# Business Hours & Support
+Hours: Monday to Saturday, 10:00 AM to 6:00 PM (PST). Sunday closed.
+
+Support channels: TBD
+
+Response time: TBD
+
+# Policies
+## Refund Policy
+- Refund terms formal agreements me define hotay hain
+- Public refund percentages ya fixed rules available nahi
+
+Exceptions:
+- TBD
+
+How to request:
+1) Project agreement refer karein
+2) Account/PM ko request submit karein
+3) Confirmation ke baad next steps milti hain
+
+## Cancellation Policy
+- Cancellation terms formal agreements me define hotay hain
+- Public cancellation windows ya percentages available nahi
+
+# FAQs
+Q: Kya aap WhatsApp bot bana sakte hain?
+A: Haan, hum WhatsApp bot solutions banate hain jo business workflows automate karte hain.
+
+Q: Restaurant ke liye bot me kya features hotay hain?
+A: Menu, prices, deals, delivery areas/charges, aur order placement jaise features mil sakte hain.
+
+Q: Kya website development service available hai?
+A: Haan, hum website aur web application development provide karte hain.
+
+Q: Pricing kaise decide hoti hai?
+A: Pricing scope, complexity, timeline, aur integrations par depend karti hai.
+
+Q: Kya fixed packages available hain?
+A: Publicly fixed packages mention nahi, pricing project-based hoti hai.
+
+Q: Timeline kitni hoti hai?
+A: Timeline project scope par depend karti hai, exact range TBD.
+
+Q: Kya aap mobile apps bhi banate hain?
+A: Haan, mobile application development services available hain.
+
+Q: Kya cloud deployment aur platform development hota hai?
+A: Haan, cloud platforms aur platform development services available hain.
+
+Q: Kya aap CRM/ERP systems par kaam karte hain?
+A: Haan, CRM/ERP aur business software solutions me kaam hota hai.
+
+Q: Support hours kya hain?
+A: Standard hours Monday to Saturday, 10:00 AM to 6:00 PM (PST). Sunday closed.
+
+Q: Refund policy kya hai?
+A: Refund terms formal agreements me define hotay hain; public details available nahi.
+
+Q: Cancellation policy kya hai?
+A: Cancellation terms formal agreements me define hotay hain; public details available nahi.
+
+Q: Integrations kis type ki hoti hain?
+A: Integrations scope aur requirements ke mutabiq define hoti hain.
+
+Q: Ownership aur IP rights kaise handle hotay hain?
+A: IP aur ownership terms formal agreements me define hotay hain.
+
+Q: Hosting/domain aap provide karte hain?
+A: Hosting/domain details public info me specify nahi; requirements ke baad clarify hota hai.
+
+Q: Revisions kitni milti hain?
+A: Revisions ka scope project agreement me define hota hai.
+
+# Open Questions
+- TBD: Support channels (WhatsApp, email, phone) specifics
+- TBD: Typical response time
+- TBD: Typical timeline range
+- TBD: Refund exceptions details
+- TBD: Hosting/domain inclusions
