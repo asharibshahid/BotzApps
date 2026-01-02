@@ -287,7 +287,8 @@ function buildSystemPrompt(state, historyText) {
     "Never mention chunks, sources, tools, or internal state. " +
     "Always respond with plain text."
     "Before proceeding with the booking, ensure the user has shared their name, phone number, timeline, and budget."
-"If any of these details are missing, do not confirm the booking and ask them to contact the admin directly at +92 315 0262140.";
+"If any of these details are missing, do not confirm the booking and ask them to contact the admin directly at +92 315 0262140."
+"  Make sure to ask what time the user will be available before confirming the booking, and include that time in the booking message sent to the admin as the meeting time.";
 
   return (
     `${basePrompt}\n\n` +
