@@ -285,7 +285,9 @@ function buildSystemPrompt(state, historyText) {
     "Acknowledge topic shifts in one line, then continue. " +
     "Use RAG only for explicit policies/company-info questions, never inside sales flow. " +
     "Never mention chunks, sources, tools, or internal state. " +
-    "Always respond with plain text.";
+    "Always respond with plain text."
+    "Before proceeding with the booking, ensure the user has shared their name, phone number, timeline, and budget."
+"If any of these details are missing, do not confirm the booking and ask them to contact the admin directly at +92 315 0262140.";
 
   return (
     `${basePrompt}\n\n` +
