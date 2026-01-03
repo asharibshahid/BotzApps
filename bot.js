@@ -64,16 +64,42 @@ class WhatsAppBot extends EventEmitter {
 
     this.client.on("message", async (message) => {
       try {
-        if (message.isGroupMsg || String(message.from || "").endsWith("@g.us")) return;
+        const isGroup = message.isGroupMsg || String(message.from || "").endsWith("@g.us");
+        if (isGroup) return;
         if (message.from === "status@broadcast" || message.fromMe) return;
-        if (message.hasMedia) {
-          await message.reply("I can only process text messages right now.");
+
+        const msgType = String(message.type || "");
+        const isVoice = msgType === "ptt" || msgType === "audio";
+        const isText = msgType === "chat";
+        const isMedia =
+          message.hasMedia ||
+          ["image", "video", "sticker", "document", "gif", "location", "contact"].includes(msgType);
+
+        if (isVoice) {
+          console.log("[MEDIA]", {
+            userId: message.from,
+            msgType,
+            actionTaken: "VOICE_REQUEST_TEXT"
+          });
+          await message.reply(
+            "Voice message receive ho gaya hai, please apna message text mein likh dein taake main theek se help kar sakun."
+          );
+          return;
+        }
+
+        if (!isText || isMedia) {
+          console.log("[MEDIA]", {
+            userId: message.from,
+            msgType,
+            actionTaken: "IGNORE"
+          });
           return;
         }
 
         const userId = message.from;
         const userText = message.body || "";
         if (!userText.trim()) return;
+        console.log("[MEDIA]", { userId, msgType, actionTaken: "PROCESS_TEXT" });
         const reply = await this.messageHandler.handleMessage(userId, userText);
 
         await message.reply(reply);
@@ -90,3 +116,4 @@ class WhatsAppBot extends EventEmitter {
 }
 
 module.exports = { WhatsAppBot };
+
